@@ -53,3 +53,5 @@ We use ylim to set the y-axis. This makes it so we can reduce the amount of whit
 Finally, we add what colors we want, using "scale_fill_brewer", in which you can use any number of color palettes. In my paper, I used "Oranges", "Greys", "BuPu" and "Greens". I also replaced with scale_fill_manual(values=c("grey", "#ED553B", "#F2AA3E", "#F2BF44") for more customized colors.
 
 <img src="https://github.com/katealexander/Published-Figures/blob/master/images/Bax.png" alt="drawing" width="500"/>
+
+After getting the boxplot, I delete all the labeling in photoshop and re-write them. I find it's easier that way to match the font size and typeface with other panels in the Figure.
