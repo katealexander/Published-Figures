@@ -51,5 +51,6 @@ After specifying where the data is coming from, we tell ggplot how to graph it. 
 We use ylim to set the y-axis. This makes it so we can reduce the amount of white space in the graph and be able to visualize the differences.
   
 Finally, we add what colors we want, using "scale_fill_brewer", in which you can use any number of color palettes. In my paper, I used "Oranges", "Greys", "BuPu" and "Greens". I also replaced with scale_fill_manual(values=c("grey", "#ED553B", "#F2AA3E", "#F2BF44") for more customized colors.
-[[https://github.com/katealexander/Published-Figures/blob/master/images/Alexander2020/Bax.pdf]]
+
+![Boxplot](https://github.com/katealexander/Published-Figures/blob/master/images/Alexander2020/Bax.pdf)
 
